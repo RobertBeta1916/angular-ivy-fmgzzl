@@ -1,7 +1,7 @@
 p {
   font-family: Lato;
 }
-
+ 
 #menu-section {
   border-radius: 0ex;
   border-style: double;
@@ -10,7 +10,7 @@ p {
   padding-left: 2.5%;
   margin-bottom: 1.5%;
 }
-
+ 
 .text-error {
 color: red;
 }

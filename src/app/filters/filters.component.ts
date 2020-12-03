@@ -1,5 +1,5 @@
 import { Component, OnInit } from "@angular/core";
-
+ 
 @Component({
   selector: "app-filters",
   templateUrl: "./filters.component.html",
@@ -7,8 +7,8 @@ import { Component, OnInit } from "@angular/core";
 })
 export class FiltersComponent implements OnInit {
   public inputId = "";
-
+ 
   constructor() {}
-
+ 
   ngOnInit() {}
 }
